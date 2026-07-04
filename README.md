@@ -121,9 +121,3 @@ Legend:
 
 
 GitHub: https://github.com/sriram598
-
----
-
-## 📜 License
-
-This project is developed for educational purposes.
