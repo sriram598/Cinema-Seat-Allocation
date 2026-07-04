@@ -1,4 +1,4 @@
-# 🎬 Cinema Seat Allocation Map
+#  Cinema Seat Allocation Map
 
 A Java console-based application that simulates a theatre seat booking system using **2D Arrays** and **Object-Oriented Programming (OOP)** concepts.
 
@@ -6,18 +6,18 @@ The system allows users to view seat availability, book contiguous seats for gro
 
 ---
 
-## 📌 Features
+## Features
 
-- 🪑 Display seat availability in a grid format
-- 👥 Find contiguous seats for group bookings
-- ✅ Prevent double booking
-- 📊 Calculate occupancy percentage in real time
-- 🔄 Atomic booking (all seats booked or none)
-- 📋 Menu-driven console interface
+- Display seat availability in a grid format
+- Find contiguous seats for group bookings
+- Prevent double booking
+- Calculate occupancy percentage in real time
+- Atomic booking (all seats booked or none)
+- Menu-driven console interface
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 CinemaSeatAllocation
@@ -35,7 +35,7 @@ CinemaSeatAllocation
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Java
 - Object-Oriented Programming (OOP)
@@ -44,7 +44,7 @@ CinemaSeatAllocation
 
 ---
 
-## 📖 System Workflow
+##  System Workflow
 
 1. Initialize the seat map.
 2. Display available seats.
@@ -55,7 +55,7 @@ CinemaSeatAllocation
 
 ---
 
-## 🧠 Algorithm
+##  Algorithm
 
 ```text
 FOR each row
@@ -84,7 +84,7 @@ Where:
 
 ---
 
-## 🎯 Sample Output
+##  Sample Output
 
 ### Initial Seat Map
 
@@ -108,7 +108,7 @@ Legend:
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Database Integration (MySQL)
 - JavaFX/Swing GUI
@@ -119,11 +119,6 @@ Legend:
 
 ---
 
-## 👨‍💻 Author
-
-**Sriram Tungala**  
-B.Tech – Embedded Systems & IoT  
-KL University
 
 GitHub: https://github.com/sriram598
 
